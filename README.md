@@ -11,6 +11,9 @@ but this should be very easy to modify.
 I needed this, because I have a strange dual boot setup where my monitor usually
 turns on with the input that is not the default from my UEFI setup.
 
+A 3d printable case is also available in the case folder, with Fusion 360 design
+files.
+
 ## Build and install
 
 An uf2 binary is available as release for easy testing.
